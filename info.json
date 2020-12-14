@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9eedfcca7da87131f79063b81c94a48ab1a8a03a",
+    "author": "Will Pearse <will.pearse@gmail.com>",
+    "time": "2020-12-14 21:40:25",
+    "files": 16,
+    "merge": false,
+    "message": "M1 fixes\n"
+  },
+  "remote": "https://github.com/ropensci/suppdata",
+  "pkg": "suppdata"
+}
