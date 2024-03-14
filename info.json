@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2b00410c31ba8f4f645f47cbd9c6e8e330fca87a",
+    "author": "Will Pearse <will.pearse@gmail.com>",
+    "time": "2023-10-16 08:08:16",
+    "files": 1,
+    "merge": false,
+    "message": "CITATION fixes\n"
+  },
+  "repo": "https://github.com/ropensci/suppdata",
+  "pkg": "suppdata"
+}
